@@ -1,6 +1,6 @@
 # On-The-Effect-Of-Skip-Connections-In-Deep-Generative-adversarial-Models
 
-you can download the relate dataset from [link](https://pan.baidu.com/s/1alwIfGi9ENRpk9a2fmrrRw), and the Extraction code is rmzs. When the fireworks are over, put dataset into data and unzip it.
+you can download the relate dataset from [link](https://pan.baidu.com/s/1alwIfGi9ENRpk9a2fmrrRw), and the Extraction code is 'rmzs'. When the fireworks are over, put dataset into data and unzip it.
 
 
 
